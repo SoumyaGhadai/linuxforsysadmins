@@ -44,6 +44,9 @@ ls -l te*; ls test*
 <!-- input-> process -> output -->
 ![image](https://github.com/user-attachments/assets/15001e39-a0f8-4f21-a7ee-5bb5db8a06e3)
 
+![image](https://github.com/user-attachments/assets/7ec7e7b1-18eb-47af-a8cc-05650139735a)
+
+
 
 
 
