@@ -2,7 +2,8 @@
 
 # monolithic and modular linux kernel
 monolithic- the necessary s/w drivers will load to memory
-![linux](image.png)
+![image](https://github.com/user-attachments/assets/279cec29-675e-4994-9828-32dd962dd5e8)
+
 
 bash- bourne again shell
 
@@ -41,7 +42,9 @@ ls -l te*; ls test*
 # basic commands 2
 <!-- redirection for logs process analysis etc.-->
 <!-- input-> process -> output -->
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/15001e39-a0f8-4f21-a7ee-5bb5db8a06e3)
+
+
 
 
 
